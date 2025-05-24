@@ -1,7 +1,8 @@
-﻿  main_puestos.cpp
+﻿  Proveedor.cpp
+  main_puestos.cpp
   Generando código
-  0 of 155 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  0 of 163 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Generación de código finalizada
-  super_mercado.vcxproj -> C:\Progra\PROYECTO FINAL\PROYECTO-FINAL-06\sln_super_mercado\x64\Release\super_mercado.exe
+  super_mercado.vcxproj -> C:\Users\Dany Hernandez\Desktop\Proyecto Supermercado\PROYECTO-FINAL-06\sln_super_mercado\x64\Release\super_mercado.exe

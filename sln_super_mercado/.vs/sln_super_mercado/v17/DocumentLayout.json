@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\",
+  "WorkspaceRootPath": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\main_puestos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Proveedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\Proveedor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\main_puestos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\main_puestos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Puestos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Puestos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\Puestos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E74D7258-890D-4C7E-8EDD-145063317AA3}|super_mercado\\super_mercado.vcxproj|solutionrelative:super_mercado\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -35,23 +39,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main_puestos.cpp",
-              "DocumentMoniker": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\main_puestos.cpp",
-              "RelativeDocumentMoniker": "super_mercado\\main_puestos.cpp",
-              "ToolTip": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\main_puestos.cpp",
-              "RelativeToolTip": "super_mercado\\main_puestos.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-17T15:13:52.635Z",
+              "Title": "Proveedor.h",
+              "DocumentMoniker": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Proveedor.h",
+              "RelativeDocumentMoniker": "super_mercado\\Proveedor.h",
+              "ToolTip": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Proveedor.h",
+              "RelativeToolTip": "super_mercado\\Proveedor.h",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T04:28:12.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "main_puestos.cpp",
+              "DocumentMoniker": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\main_puestos.cpp",
+              "RelativeDocumentMoniker": "super_mercado\\main_puestos.cpp",
+              "ToolTip": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\main_puestos.cpp",
+              "RelativeToolTip": "super_mercado\\main_puestos.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T15:13:52.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Cliente.h",
-              "DocumentMoniker": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Cliente.h",
+              "DocumentMoniker": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Cliente.h",
               "RelativeDocumentMoniker": "super_mercado\\Cliente.h",
-              "ToolTip": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Cliente.h",
+              "ToolTip": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Cliente.h",
               "RelativeToolTip": "super_mercado\\Cliente.h",
               "ViewState": "AgIAAAQAAAAAAAAAAAAWwEoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -61,33 +77,33 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Persona.h",
-              "DocumentMoniker": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Persona.h",
+              "DocumentMoniker": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Persona.h",
               "RelativeDocumentMoniker": "super_mercado\\Persona.h",
-              "ToolTip": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Persona.h",
+              "ToolTip": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Persona.h",
               "RelativeToolTip": "super_mercado\\Persona.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-16T05:26:52.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Puestos.h",
-              "DocumentMoniker": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Puestos.h",
+              "DocumentMoniker": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Puestos.h",
               "RelativeDocumentMoniker": "super_mercado\\Puestos.h",
-              "ToolTip": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Puestos.h",
+              "ToolTip": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\Puestos.h",
               "RelativeToolTip": "super_mercado\\Puestos.h",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAGgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-16T07:41:43.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ConexionBD.h",
-              "DocumentMoniker": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\ConexionBD.h",
+              "DocumentMoniker": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\ConexionBD.h",
               "RelativeDocumentMoniker": "super_mercado\\ConexionBD.h",
-              "ToolTip": "C:\\Progra\\PROYECTO FINAL\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\ConexionBD.h",
+              "ToolTip": "C:\\Users\\Dany Hernandez\\Desktop\\Proyecto Supermercado\\PROYECTO-FINAL-06\\sln_super_mercado\\super_mercado\\ConexionBD.h",
               "RelativeToolTip": "super_mercado\\ConexionBD.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

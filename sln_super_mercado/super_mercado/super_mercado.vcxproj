@@ -138,6 +138,7 @@
     <ClCompile Include="Cliente.cpp" />
     <ClCompile Include="ConexionBD.cpp" />
     <ClCompile Include="Persona.cpp" />
+    <ClCompile Include="Proveedor.cpp" />
     <ClCompile Include="Puestos.cpp" />
     <ClCompile Include="main_puestos.cpp" />
   </ItemGroup>
@@ -145,6 +146,7 @@
     <ClInclude Include="Cliente.h" />
     <ClInclude Include="ConexionBD.h" />
     <ClInclude Include="Persona.h" />
+    <ClInclude Include="Proveedor.h" />
     <ClInclude Include="Puestos.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
